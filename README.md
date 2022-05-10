@@ -169,10 +169,11 @@ i) Using Averaging Filter
 ii) Using Weighted Averaging Filter
 
 iii) Using Gaussian Filter
-![Uploading Screenshot (54).png…]()
+
 
 
 iv) Using Median Filter
+![Uploading Screenshot (57).png…]()
 
 
 ### 2. Sharpening Filters
