@@ -163,6 +163,7 @@ plt.show()
 </br>
 
 i) Using Averaging Filter
+![Uploading Screenshot (56).png…]()
 
 
 
@@ -173,7 +174,7 @@ iii) Using Gaussian Filter
 
 
 iv) Using Median Filter
-![Screenshot (57)](https://user-images.githubusercontent.com/94677128/167692664-effa67a0-64a1-40cb-b81e-cb50b951465e.png)
+
 
 
 
