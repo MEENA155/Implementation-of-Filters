@@ -163,12 +163,13 @@ plt.show()
 </br>
 
 i) Using Averaging Filter
-![Uploading Screenshot (56).png…]()
+
 
 
 ii) Using Weighted Averaging Filter
 
 iii) Using Gaussian Filter
+![Uploading Screenshot (54).png…]()
 
 
 iv) Using Median Filter
