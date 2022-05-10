@@ -173,14 +173,15 @@ iii) Using Gaussian Filter
 
 
 iv) Using Median Filter
-![Uploading Screenshot (57).png…]()
+![Screenshot (57)](https://user-images.githubusercontent.com/94677128/167692664-effa67a0-64a1-40cb-b81e-cb50b951465e.png)
+
 
 
 ### 2. Sharpening Filters
 </br>
 
 i) Using Laplacian Kernal
-![Screenshot (58)](https://user-images.githubusercontent.com/94677128/167687130-62977e54-9b05-4af0-a496-a85066be13a9.png)
+
 
 
 ii) Using Laplacian Operator
