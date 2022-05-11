@@ -41,6 +41,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 image1=cv2.imread("Fawzil.jfif")
 image2=cv2.cvtColor(image1,cv2.COLOR_BGR2RGB)
+</b>
 
 ### 1. Smoothing Filters
 
