@@ -15,11 +15,14 @@ For performing smoothing operation on a image.
 Average filter
 kernel=np.ones((11,11),np.float32)/121
 image3=cv2.filter2D(image2,-1,kernel)
+
 Weighted average filter
 kernel1=np.array([[1,2,1],[2,4,2],[1,2,1]])/16
 image3=cv2.filter2D(image2,-1,kernel1)
+
 Gaussian Blur
 gaussian_blur=cv2.GaussianBlur(image2,(33,33),0,0)
+
 Median filter
 median=cv2.medianBlur(image2,13)
 Step 3:
@@ -35,18 +38,16 @@ Display all the images with their respective filters.
 ## Program:
 ### Developed By   :  MEENA.S
 ### Register Number:212221240028
-</br>
-import cv2
-import matplotlib.pyplot as plt
-import numpy as np
-image1=cv2.imread("Fawzil.jfif")
-image2=cv2.cvtColor(image1,cv2.COLOR_BGR2RGB)
-</b>
 
 ### 1. Smoothing Filters
 
 i) Using Averaging Filter
 ```Python
+import cv2
+import matplotlib.pyplot as plt
+import numpy as np
+image1=cv2.imread("Fawzil.jfif")
+image2=cv2.cvtColor(image1,cv2.COLOR_BGR2RGB)
 kernel=np.ones((11,11),np.float32)/121
 image3=cv2.filter2D(image2,-1,kernel)
 plt.figure(figsize=(8,8))
