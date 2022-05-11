@@ -163,6 +163,7 @@ plt.show()
 </br>
 
 i) Using Averaging Filter
+![Screenshot (56)](https://user-images.githubusercontent.com/94677128/167823918-80148e09-a78f-414c-a7cd-9f376287d4e8.png)
 
 
 
@@ -184,10 +185,12 @@ iv) Using Median Filter
 </br>
 
 i) Using Laplacian Kernal
+![Screenshot (58)](https://user-images.githubusercontent.com/94677128/167823711-3bc05f07-70f0-400a-87c1-f403c3f403cd.png)
 
 
 
 ii) Using Laplacian Operator
+![Screenshot (59)](https://user-images.githubusercontent.com/94677128/167824266-3e2f2370-5511-4976-a73d-d9709ef9fea6.png)
 
 
 ## Result:
