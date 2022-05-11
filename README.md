@@ -163,11 +163,11 @@ plt.show()
 </br>
 
 i) Using Averaging Filter
-![Uploading Screenshot (56).png…]()
 
 
 
 ii) Using Weighted Averaging Filter
+![Screenshot (55)](https://user-images.githubusercontent.com/94677128/167823151-e1bc1243-f226-4d7e-9701-60bc11e616f7.png)
 
 iii) Using Gaussian Filter
 
