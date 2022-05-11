@@ -170,6 +170,7 @@ ii) Using Weighted Averaging Filter
 ![Screenshot (55)](https://user-images.githubusercontent.com/94677128/167823151-e1bc1243-f226-4d7e-9701-60bc11e616f7.png)
 
 iii) Using Gaussian Filter
+![Screenshot (54)](https://user-images.githubusercontent.com/94677128/167823544-c0952a07-a846-4f01-858e-133ca4cc8037.png)
 
 
 
