@@ -36,8 +36,8 @@ laplacian=cv2.Laplacian(image2,cv2.CV_64F)
 Step 4:
 Display all the images with their respective filters.
 ## Program:
-### Developed By   :  Sithi Hajara .I
-
+### Developed By   :  Meena .S
+### Register Number : 212221240028
 
 ### 1. Smoothing Filters
 
